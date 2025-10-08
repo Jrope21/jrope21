@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Joshua 👋  
+Manager Software Engineer • Frontend Architecture
 
-<!--
-**Jrope21/jrope21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that scale — from design tokens to production UIs —  
+helping enterprise teams ship faster, look better, and stay consistent.  
 
-Here are some ideas to get you started:
+💼 Manager Software Engineer @ Capgemini  
+🧠 Built multiple enterprise design systems totaling 50k+ internal installs  
+🧩 Previously at Sally Beauty & Imaginuity, launching global commerce and UI platforms.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,nodejs,graphql,html,css,tailwind,materialui,storybook,redux,vite,webpack,git,githubactions,jenkins,docker,aws,vercel,mongodb,figma" />
+</p>
