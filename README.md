@@ -45,7 +45,7 @@ Previously delivered enterprise commerce and UI platforms serving global B2B and
 ---
 
 ### Connect
-Let’s collaborate or talk frontend 👇 
+Let’s collaborate or talk front-end 👇 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-roper/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.micah.roper@gmail.com)
