@@ -1,7 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://media.licdn.com/dms/image/v2/C5616AQGMHPDm0QbY3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1620288447862?e=1762992000&v=beta&t=Z6KUVCQAR8hslW7jt82heZJ3SzMrvzjRdHtqGuuhCX8" alt="Joshua Roper LinkedIn Banner" width="100%" style="border-radius: 8px;" />
-</p>
-
+</p>-->
 
 # Hi, I’m Joshua Roper 👋  
 > *Manager Software Engineer*  
@@ -13,14 +12,14 @@ Focused on helping enterprise teams ship faster, look sharper, and stay consiste
 
 ### Experience
 
-✔️ **Manager Software Engineer @ [Capgemini](https://www.capgemini.com/)**  
+✔️ **Software Engineering Manager @ [Capgemini](https://www.capgemini.com/)**  
 Currently leading cross-functional teams delivering enterprise-scale UI systems and front-end modernization.
 
-✔️ **Software Consultant @ [Goosehead Insurance](https://www.goosehead.com/) & [Apex Fintech Solutions](https://apexfintechsolutions.com/)**  
-Drove architectural transformations and scalable front-end adoption for enterprise clients.
-
-✔️ **Software Engineer @ [Sally Beauty](https://www.sallybeauty.com/) & [Imaginuity](https://www.imaginuity.com/)**  
+✔️ **Senior Software Engineer @ [Sally Beauty](https://www.sallybeauty.com/)**  
 Previously delivered enterprise commerce and UI platforms serving global B2B and B2C audiences.
+
+✔️ **Software Engineer @ [Goosehead Insurance](https://www.goosehead.com/), [Apex Fintech Solutions](https://apexfintechsolutions.com/), & [Imaginuity](https://www.imaginuity.com/)**  
+Drove architectural transformations and scalable front-end adoption for enterprise clients.
 
 ---
 
