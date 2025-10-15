@@ -3,7 +3,6 @@
 </p>-->
 
 # Hi, I’m Joshua Roper 👋  
-> *Software Engineering Manager*  
 
 I architect and deliver scalable front-end systems.  
 Focused on helping enterprise teams ship faster, look sharper, and stay consistent. 
