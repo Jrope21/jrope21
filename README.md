@@ -11,7 +11,7 @@ Focused on helping enterprise teams ship faster, look sharper, and stay consiste
 
 ### Experience
 
-✔️ **Software Engineering Manager @ [Capgemini](https://www.capgemini.com/)**  
+✔️ **Software Engineering Lead @ [Capgemini](https://www.capgemini.com/)**  
 Currently leading cross-functional teams delivering enterprise-scale UI systems and front-end modernization.
 
 ✔️ **Senior Software Engineer @ [Sally Beauty](https://www.sallybeauty.com/)**  
