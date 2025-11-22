@@ -14,7 +14,7 @@ Focused on helping enterprise teams ship faster, look sharper, and stay consiste
 ✔️ **Software Engineering Lead @ [Capgemini](https://www.capgemini.com/)**  
 Currently leading cross-functional teams delivering enterprise-scale UI systems and front-end modernization.
 
-✔️ **Senior Software Engineer @ [Sally Beauty](https://www.sallybeauty.com/)**, & [CosmoProf](https://www.cosmoprofbeauty.com/) 
+✔️ **Senior Software Engineer @ [Sally Beauty](https://www.sallybeauty.com/)**, & [CosmoProf](https://www.cosmoprofbeauty.com/)  
 Previously delivered enterprise commerce and UI platforms serving global B2B and B2C audiences.
 
 ✔️ **Software Engineer @ [Goosehead Insurance](https://www.goosehead.com/), [Apex Fintech Solutions](https://apexfintechsolutions.com/), & [Imaginuity](https://www.imaginuity.com/)**  
